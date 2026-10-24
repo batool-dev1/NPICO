@@ -1,49 +1,51 @@
-# 🏭 NPICO - The New Plastic Industrial Company Corporate Website
+# 🏭 NPICO - Corporate Web Platform
 
-Welcome to the official repository for the **The New Plastic Industrial Company (NPICO)** website, a member of **Al Hazaa Investment Group**. 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=githubpages)](https://batool-dev1.github.io/NPICO/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-This web application showcases NPICO's industrial manufacturing capabilities, product catalog, factory operations, quality certifications, and contact details.
+An enterprise corporate web platform developed for **The New Plastic Industrial Company (NPICO)**, a prominent subsidiary of **Al Hazaa Investment Group**. The platform showcases industrial manufacturing workflows, high-capacity production capabilities, product portfolios, quality compliance standards, and facility logistics.
 
-🌐 **Live Website:** [NPICO Web Application](https://batool-dev1.github.io/NPICO/)
-
----
-
-## 🌟 Features & Sections
-
-- **Hero Section:** High-impact banner highlighting NPICO's identity and core mission.
-- **Our Story:** Overview of NPICO's established legacy in the plastic packaging industry.
-- **Product Showcase:** Interactive display of products including:
-  - Valve Bags
-  - Hazardous Material Packaging
-  - BOPP Woven Bags
-  - Flexible Packaging Solutions
-- **Factory in Action:** Embedded YouTube media section featuring production lines and machinery.
-- **Certifications & Quality:** Visual showcase of ISO and industrial compliance certificates.
-- **Location & Contact:** Interactive map, contact details, and factory location in Qastal Industrial Zone, Amman, Jordan.
+🌐 **Live Application:** [https://batool-dev1.github.io/NPICO/](https://batool-dev1.github.io/NPICO/)
 
 ---
 
-## 🛠️ Tech Stack & Technologies Used
+## 🚀 Key Modules & Capabilities
 
-- **Frontend:** HTML5, CSS3, JavaScript
-- **Styling:** Responsive Grid & Flexbox, Custom CSS Styling
-- **Hosting & Deployment:** GitHub Pages
-- **Media:** Optimized HD Images & YouTube Embedded API Integration
+- **Corporate Identity & Legacy:** Showcases NPICO's background, core values, and position within Al Hazaa Investment Group.
+- **Product Catalog Showcase:** Interactive display highlighting specialized industrial packaging solutions, including:
+  - High-precision Valve Bags
+  - Certified Hazardous Material Packaging
+  - BOPP Woven Packaging
+  - Multi-industry Flexible Packaging Solutions
+- **Media & Factory Operations:** Embedded video integrations offering dynamic insight into automated production lines, weaving looms, and quality assurance labs.
+- **Compliance & Quality Assurance:** Dedicated visual section presenting international ISO certifications and industry standard compliance credentials.
+- **Logistics & Interactive Contact:** Integrated interactive mapping and detailed facility routing for the factory in Qastal Industrial Zone, Amman, Jordan.
 
 ---
 
-## 📂 Project Structure
+## 🛠️ Architecture & Tech Stack
+
+- **Frontend Core:** Semantic HTML5, Modular CSS3 Architecture, JavaScript (ES6+)
+- **Layout & Styling:** Mobile-first Responsive Design utilizing CSS Grid & Flexbox
+- **Asset Optimization:** Compression-optimized HD imagery and light-weight embedded YouTube API components
+- **Hosting & Infrastructure:** GitHub Pages Continuous Deployment pipeline
+
+---
+
+## 📂 Project Directory Structure
 
 ```text
 NPICO/
 │
-├── index.html            # Main HTML document
-├── README.md             # Project documentation
-└── images/               # Asset folder containing optimized imagery
-    ├── hero.jpg
-    ├── looms.jpg
-    ├── line.jpg
-    ├── rolls.jpg
-    ├── factory.jpg
-    ├── cert1.jpg
-    └── cert2.jpg
+├── index.html            # Core entry layout & page markup
+├── README.md             # Enterprise project documentation
+└── images/               # High-resolution optimized asset storage
+    ├── hero.jpg          # Primary banner asset
+    ├── looms.jpg         # Industrial loom machinery media
+    ├── line.jpg          # Automated production line media
+    ├── rolls.jpg         # Raw material & output showcase
+    ├── factory.jpg       # Facility infrastructure view
+    ├── cert1.jpg         # ISO / Quality certification document 1
+    └── cert2.jpg         # ISO / Quality certification document 2
